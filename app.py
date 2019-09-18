@@ -8,7 +8,7 @@ from collections import deque, Counter
 ########### Define your variables ######
 
 myheading1='Try out a palindrome here!'
-initial_value='A nut for a jar of tuna'
+initial_value='God! Nate bit a Tibetan dog!'
 longtext='''
         _Suggestions you might try:_
         * A man, a plan, a canal: Panama!
@@ -17,7 +17,7 @@ longtext='''
         '''
 tabtitle = 'racecar'
 sourceurl = 'https://www.grammarly.com/blog/16-surprisingly-funny-palindromes/'
-githublink = 'https://github.com/austinlasseter/dash-simple-callback'
+githublink = 'https://github.com/szilviaaltorjai/dash-simple-callback'
 
 ########### Define a function for your callback:
 def my_function(letters):
