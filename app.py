@@ -7,13 +7,13 @@ from collections import deque, Counter
 
 ########### Define your variables ######
 
-myheading1='Try out a palindrome here!'
-initial_value='God! Nate bit a Tibetan dog!'
+myheading1='How your understanding of callback improves?'
+initial_value='Nah...'
 longtext='''
         _Suggestions you might try:_
-        * A man, a plan, a canal: Panama!
-        * Go hang a salami I'm a lasanga hog
-        * God! Nate bit a Tibetan dog!
+        * Very much
+        * Enough..
+        * I already understand it
         '''
 tabtitle = 'racecar'
 sourceurl = 'https://www.grammarly.com/blog/16-surprisingly-funny-palindromes/'
